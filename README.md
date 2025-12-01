@@ -333,5 +333,5 @@ This project is intended for **academic purposes only**. The dataset is publicly
 ## Contact
 
 For questions or collaboration opportunities:
-- **GitHub:** [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **Email:** [your.email@colorado.edu]
+- **GitHub:** https://github.com/mipa5770/CSCA-5622--Introduction-to-Machine-Learning-Supervised-Learning
+- **Email:** mipa5770@colorado.edu 
