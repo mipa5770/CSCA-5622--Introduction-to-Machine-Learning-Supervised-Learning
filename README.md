@@ -4,8 +4,10 @@ Master's degree coursework project for **Introduction to Supervised Learning (CS
 
   
 📁 **GitHub Repository:** https://github.com/mipa5770/CSCA-5622--Introduction-to-Machine-Learning-Supervised-Learning
+
 📊 **Kaggle Dataset:**  
 Kaggle. (2022). *Tabular Playground Series - Feb 2022* [Dataset]. 
+
 Retrieved from https://www.kaggle.com/c/tabular-playground-series-feb-2022/data
 
 **Youtube:** https://youtu.be/aQ7TaxjmSOE
