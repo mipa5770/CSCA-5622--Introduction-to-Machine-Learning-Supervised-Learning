@@ -7,6 +7,8 @@ Master's degree coursework project for **Introduction to Supervised Learning (CS
 📊 **Kaggle Dataset:**  
 Kaggle. (2022). *Tabular Playground Series - Feb 2022* [Dataset]. Retrieved from https://www.kaggle.com/c/tabular-playground-series-feb-2022/data
 
+**Youtube:** https://youtu.be/aQ7TaxjmSOE
+
 ---
 
 ## Project Overview
